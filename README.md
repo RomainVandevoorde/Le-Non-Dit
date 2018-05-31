@@ -4,7 +4,7 @@ One-pager réalisé dans le cadre de [cet exercice](https://github.com/becodeorg
 
 Accessible en ligne: [Cliquez ici](https://romainvandevoorde.github.io/Le-Non-Dit/index.html).
 
-Le site qui m'a été attribué est [lenondit.eu](lenondit.eu), site d'une ASBL qui publie une revue littéraire et organise des évènements en rapport avec la littérature.
+Le site qui m'a été attribué est [lenondit.eu](http://www.lenondit.eu), site d'une ASBL qui publie une revue littéraire et organise des évènements en rapport avec la littérature.
 
 ## Démarche
 
