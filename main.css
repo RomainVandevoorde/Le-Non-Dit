@@ -136,3 +136,16 @@ footer {
   padding: 20px;
   margin-top :50px;
 }
+
+footer .cell {
+  /* padding: 20px; */
+}
+
+footer a {
+  color: white;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: #adadad;
+}
