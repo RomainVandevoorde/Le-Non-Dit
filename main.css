@@ -1,0 +1,112 @@
+body {
+  background-color: black;
+}
+
+button.button {
+  background-color: #414141;
+  border: 1px solid #717171;
+}
+
+::placeholder {
+  color: black;
+  opacity: 1;
+}
+
+#jumbo {
+  text-align: center;
+  padding: 80px 0;
+}
+
+.titles-container {
+  display: inline-block;
+  color: white;
+  text-align: center;
+}
+
+.titles-container h1 {
+  font-family: serif;
+  font-size: 4em;
+}
+
+.titles-container hr {
+  border-color: white;
+}
+
+.titles-container h2 {
+  text-transform: uppercase;
+  font-size: 1.8em;
+}
+
+#about {
+
+}
+
+.grid-container {
+  max-width: 960px;
+}
+
+/* .grid-container h3 {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  border-bottom-width: 0;
+} */
+
+.grid-container p {
+  background-color: white;
+}
+
+.top-bar, .top-bar ul {
+  background-color: transparent;
+}
+
+.top-bar {
+  font-family: serif;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.top-bar a  {
+  color: lightgrey;
+}
+
+.top-bar a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.lightblue {
+  color: #6eb6e0;
+}
+
+.cell.section-title {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+}
+
+.cell.section-title h3 {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.cell.section-content {
+  background-color: white;
+}
+
+.cell.section-content article {
+padding: 20px;
+}
+
+#lastissue article {
+  text-align: center;
+}
+
+#lastissue article h1 {
+  font-family: serif;
+}
+
+#lastissue article h2 {
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
