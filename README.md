@@ -21,3 +21,7 @@ Mon objectif a été de représenter les trois principales activités de l'ASBL:
 1. La publication de la revue littéraire *Le Non-Dit*, dont le dernier numéro paru est la première chose que les visiteurs verront après le titre.
 2. L'organisation de *voyages d'immersion littéraire*.
 3. L'organisation de rencontres avec des écrivains belges.
+
+## Technologies
+
+Le site utilise [Foundation](https://foundation.zurb.com/) pour la topbar et le layout (système XY Grid).
