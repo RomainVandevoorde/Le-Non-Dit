@@ -38,10 +38,6 @@ button.button {
   font-size: 1.8em;
 }
 
-#about {
-
-}
-
 .grid-container {
   min-width: 300px;
   max-width: 960px;
@@ -136,10 +132,6 @@ footer {
   color: white;
   padding: 20px;
   margin-top :50px;
-}
-
-footer .cell {
-  /* padding: 20px; */
 }
 
 footer a {
