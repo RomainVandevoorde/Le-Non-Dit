@@ -1,5 +1,6 @@
 body {
-  background-color: black;
+  background: linear-gradient(0deg,rgba(0, 0, 0, 0.60),rgba(0, 0, 0, 0.60)) ,url('img/1348.jpg');
+  background-attachment: fixed;
 }
 
 button.button {
@@ -43,6 +44,7 @@ button.button {
 
 .grid-container {
   max-width: 960px;
+  margin-bottom: 40px;
 }
 
 /* .grid-container h3 {
@@ -86,16 +88,17 @@ button.button {
 }
 
 .cell.section-title h3 {
+  font-family: serif;
   margin: 10px 0;
   text-align: center;
 }
 
 .cell.section-content {
   background-color: white;
+  padding: 20px;
 }
 
 .cell.section-content article {
-padding: 20px;
 }
 
 #lastissue article {
@@ -109,4 +112,20 @@ padding: 20px;
 #lastissue article h2 {
   font-size: 1.2em;
   text-transform: uppercase;
+}
+
+.cell.section-footer {
+  text-align: right;
+  background-color: white;
+  padding: 0 40px 10px 0;
+  font-size: 1.2em;
+}
+
+.cell.section-footer a {
+  color: royalblue;
+  font-style: italic;
+}
+
+.cell.section-footer a::after {
+  content: " >>";
 }
