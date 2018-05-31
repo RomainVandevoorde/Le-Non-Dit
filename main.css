@@ -47,17 +47,6 @@ button.button {
   margin-bottom: 40px;
 }
 
-/* .grid-container h3 {
-  background-color: black;
-  color: white;
-  border: 1px solid white;
-  border-bottom-width: 0;
-} */
-
-.grid-container p {
-  background-color: white;
-}
-
 .top-bar, .top-bar ul {
   background-color: transparent;
 }
@@ -126,6 +115,24 @@ button.button {
   font-style: italic;
 }
 
+.cell.section-footer a:hover {
+  color: #004774;
+  font-style: italic;
+}
+
 .cell.section-footer a::after {
   content: " >>";
+}
+
+p.description {
+  font-style: italic;
+  color: #393939;
+}
+
+footer {
+  background-color: black;
+  border-top: 1px solid grey;
+  color: white;
+  padding: 20px;
+  margin-top :50px;
 }
