@@ -43,6 +43,7 @@ button.button {
 }
 
 .grid-container {
+  min-width: 300px;
   max-width: 960px;
   margin-bottom: 40px;
 }
